@@ -25,6 +25,7 @@
             </form>
         </div>
     </div>
+    <Footer></Footer>
 </template>
 
 
@@ -32,9 +33,10 @@
 import { ref } from "vue";
 import { Inertia } from "@inertiajs/inertia";
 import Header from "@/Components/Header.vue";
-import bodycss from "../../../css/body.css";
+import bodycss from "../../../css/body.css";;
+import Footer from "../../Components/Footer.vue";
 export default {
-    components: {Header},
+    components: {Footer, Header},
     props: {
         user: Object,
         profile: Object,

@@ -54,7 +54,7 @@ class BlogController extends Controller
 
         $blog->save();
 
-        // Log the data that's being saved
+
         Log::info('Saved blog:', $blog->toArray());
 
         return redirect()->route('blogs.show', ['id' => $blog->id])->with('success', 'Blog created successfully.');

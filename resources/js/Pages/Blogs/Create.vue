@@ -36,12 +36,14 @@
             </div>
         </div>
     </div>
+    <Footer></Footer>
 </template>
 
 <script setup>
 import { ref } from 'vue';
 import { Inertia } from '@inertiajs/inertia';
 import Header from "@/Components/Header.vue";
+import Footer from "@/Components/Footer.vue"
 import bodycss from "../../../css/body.css";
 
 const title = ref('');

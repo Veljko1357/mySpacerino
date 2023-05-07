@@ -46,6 +46,7 @@
             </form>
         </div>
     </div>
+    <Footer></Footer>
 </template>
 
 
@@ -63,12 +64,14 @@ import { Inertia } from '@inertiajs/inertia';
 import { omit } from 'lodash-es';
 import { resolveComponent } from 'vue';
 import bodycss from "../../../css/body.css";
+import Footer from "../../Components/Footer.vue";
 export default {
 
     props: {
         profile: Object,
     },
     components: {
+        Footer,
       Header
     },
     setup(props) {

@@ -5,7 +5,7 @@ import {Inertia} from "@inertiajs/inertia";
 import {InertiaLink} from "@inertiajs/inertia-vue3";
 import { computed } from 'vue';
 import Header from "@/Components/Header.vue";
-
+import Footer from "@/Components/Footer.vue";
 const props = defineProps({
     id: {
         type: Number,
@@ -143,6 +143,6 @@ function viewAllBlogs() {
 
         </div>
     </div>
-
+<Footer></Footer>
 </template>
 

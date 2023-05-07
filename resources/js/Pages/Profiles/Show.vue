@@ -1,5 +1,6 @@
 <script setup>
 import {InertiaLink} from "@inertiajs/inertia-vue3";
+import Footer from "@/Components/Footer.vue";
 </script>
 
 
@@ -117,6 +118,7 @@ import {InertiaLink} from "@inertiajs/inertia-vue3";
             </div>
         </div>
     </div>
+    <Footer></Footer>
 </template>
 
 <script>

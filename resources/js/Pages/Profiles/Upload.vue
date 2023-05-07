@@ -23,6 +23,7 @@
             </div>
         </div>
     </div>
+    <Footer></Footer>
 </template>
 
 
@@ -35,6 +36,7 @@ import bodycss from "../../../css/body.css";
 import AppLayout from "@/Layouts/AppLayout.vue";
 import { computed } from 'vue';
 import Header from "@/Components/Header.vue";
+import Footer from "../../Components/Footer.vue";
 
 const successMessage = ref('');
 const props = defineProps({

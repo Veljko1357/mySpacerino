@@ -31,6 +31,10 @@ const formatDate = (date) => {
     <div class="container mx-auto px-4 bg-gray-100">
         <Header></Header>
         <div class="bg-white shadow-md rounded p-8 mt-8">
+            <div v-if="blog.unique_link" class="mb-4">
+                <span class="font-bold">Unique Link:</span>
+                <a :href="'/blogs/link/' + blog.unique_link" class="text-blue-600 hover:text-blue-800">{{ '/blogs/link/' + blog.unique_link }}</a>
+            </div>
             <h1 class="text-3xl mb-4">{{ blog.title }}</h1>
             <p class="text-gray-600 mb-4">
                 <inertia-link :href="`/profile/${blog.user.profile.id}/show`">{{ blog.user.profile.username }}</inertia-link> - posted on {{ formatDate(blog.created_at) }}
