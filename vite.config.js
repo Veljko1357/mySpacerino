@@ -1,6 +1,6 @@
-import { defineConfig } from 'vite';
-import laravel from 'laravel-vite-plugin';
-import vue from '@vitejs/plugin-vue';
+import { defineConfig } from 'vite'
+import vue from '@vitejs/plugin-vue'
+import laravel from 'vite-plugin-laravel'
 
 export default defineConfig({
     plugins: [
@@ -17,4 +17,9 @@ export default defineConfig({
             },
         }),
     ],
-});
+    build: {
+        rollupOptions: {
+            external: ['@headlessui/vue']
+        }
+    }
+})
