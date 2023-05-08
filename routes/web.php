@@ -77,7 +77,9 @@ Route::middleware([
     Route::get('/blogs/link/{unique_link}', [App\Http\Controllers\BlogController::class, 'showByUniqueLink'])->name('blogs.showByUniqueLink');
 
 
-
+    Route::get('/{any}', function () {
+        return Inertia::render('NotFound');
+    })->where('any', '.*');
 });
 
 

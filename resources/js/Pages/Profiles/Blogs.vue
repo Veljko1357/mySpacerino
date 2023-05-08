@@ -1,5 +1,6 @@
 <script setup>
 import { defineProps } from 'vue';
+import Footer from "@/Components/Footer.vue";
 
 const props = defineProps({
     blogs: {
@@ -60,6 +61,7 @@ console.log('Blogs data:', props.blogs);
             </div>
         </article>
     </div>
+    <Footer></Footer>
 </template>
 
 <script>

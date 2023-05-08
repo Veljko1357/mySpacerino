@@ -14,6 +14,7 @@
             <button type="submit">Create Profile</button>
         </form>
     </div>
+    <Footer></Footer>
 </template>
 
 <style>
@@ -28,8 +29,10 @@ template{
 import { ref } from 'vue';
 import { usePage } from '@inertiajs/inertia-vue3';
 import { Inertia } from '@inertiajs/inertia';
+import Footer from "@/Components/Footer.vue";
 
 export default {
+    components: {Footer},
     setup() {
         const form = ref({
             username: '',

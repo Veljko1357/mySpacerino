@@ -1,6 +1,7 @@
 <script setup>
 import {InertiaLink} from "@inertiajs/inertia-vue3";
 import bodycss from "../../../css/body.css";
+import Footer from "@/Components/Footer.vue";
 
 </script>
 
@@ -48,6 +49,7 @@ import bodycss from "../../../css/body.css";
             </div>
         </div>
     </div>
+    <Footer></Footer>
 </template>
 
 <script>

@@ -5,275 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66de7901-91c4-4ed3-909e-21f819c3abfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/node-which" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/node-which.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/node-which.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/chalk/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/chalk/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/chalk/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/chalk/source/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/chalk/source/templates.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/chalk/source/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/conversions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/color-convert/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/color-name/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/color-name/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/color-name/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/color-name/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/enoent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/parse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/escape.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/readShebang.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/resolveCommand.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/src/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/src/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/src/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/defu/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/defu/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/defu/dist/defu.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/defu/dist/defu.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/defu/dist/defu.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/defu/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/execa/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/execa/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/execa/lib/command.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/execa/lib/error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/execa/lib/kill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/execa/lib/promise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/execa/lib/stdio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/execa/lib/stream.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/execa/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/execa/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/execa/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/get-stream/buffer-stream.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/get-stream/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/get-stream/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/get-stream/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/get-stream/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/get-stream/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/build/src/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/build/src/core.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/build/src/main.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/build/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/build/src/main.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/build/src/realtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/build/src/realtime.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/build/src/signals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/build/src/signals.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/human-signals/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/is-stream/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/is-stream/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/is-stream/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/is-stream/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/is-stream/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isexe/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isexe/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isexe/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isexe/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isexe/mode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isexe/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isexe/test/basic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isexe/windows.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/merge-stream/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/merge-stream/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/merge-stream/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/merge-stream/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mimic-fn/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mimic-fn/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mimic-fn/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mimic-fn/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mimic-fn/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ms/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ms/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ms/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ms/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/npm-run-path/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/npm-run-path/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/npm-run-path/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/npm-run-path/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/npm-run-path/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/onetime/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/onetime/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/onetime/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/onetime/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/onetime/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/path-key/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/path-key/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/path-key/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/path-key/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/path-key/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/shebang-command/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/shebang-command/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/shebang-command/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/shebang-command/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/shebang-regex/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/shebang-regex/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/shebang-regex/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/shebang-regex/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/shebang-regex/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/signal-exit/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/signal-exit/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/signal-exit/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/signal-exit/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/signal-exit/signals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/strip-final-newline/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/strip-final-newline/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/strip-final-newline/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/strip-final-newline/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vite-plugin-laravel/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vite-plugin-laravel/dist/index.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vite-plugin-laravel/dist/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vite-plugin-laravel/dist/index.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vite-plugin-laravel/dist/inertia.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vite-plugin-laravel/dist/inertia.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vite-plugin-laravel/dist/inertia.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vite-plugin-laravel/inertia.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vite-plugin-laravel/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/which/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/which/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/which/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/which/bin/node-which" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/which/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/which/which.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/build/assets/Create-14ebad68.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/build/assets/Edit-d0a9aecc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/build/assets/Edit-eee8f128.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/build/assets/Footer-92427b74.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/build/assets/Index-13b7bef7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/build/assets/Index-f8b3dab7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/build/assets/Show-a6bee8d7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/build/assets/Upload-7678bbc6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/build/assets/Welcome-7e95fe14.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/Components/Footer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/Components/NotFound.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/BlogController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/BlogController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/ActionMessage-1f5ad1cf.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/ActionMessage-bb742977.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/ApiTokenManager-73b11383.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/ApiTokenManager-675ffac7.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/AppLayout-377fed63.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/AppLayout-701a9f89.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/AuthenticationCard-290d86db.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/AuthenticationCard-7ee6fef1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/AuthenticationCardLogo-4fceb88c.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/AuthenticationCardLogo-e34f8b05.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Blogs-a001c519.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Blogs-f35cc885.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Checkbox-364f080b.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Checkbox-21bd56f8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/ConfirmPassword-a511d80c.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/ConfirmPassword-5c8a89be.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Create-50f18dbd.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Create-e811417a.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Create-e5f09417.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Create-dc1eaee7.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Create-f8ad4b5e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/DangerButton-55e1b136.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/DangerButton-4043a9d2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Dashboard-1bd8c9a1.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Dashboard-d6e52c16.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/DeleteUserForm-b9148a70.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/DeleteUserForm-1a900f94.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/DialogModal-cb947759.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/DialogModal-91800719.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Display-239df8d8.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Display-e626a742.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Display-3b3194cd.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Display-ef686504.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Edit-75d6f06e.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Edit-a32b787e.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Edit-a2f5dcd7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Edit-c7169093.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/ForgotPassword-a6518a5b.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/ForgotPassword-73f14b65.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/FormSection-b8dbb9a8.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/FormSection-591bcfec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Index-5092f4f4.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Index-f638f924.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Index-8cc3099e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Index-b7cb6639.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Index-1a811167.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Index-c49cb99d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/InputLabel-66947095.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/InputLabel-82143689.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Login-01d6aee2.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Login-4aa6ff92.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/LogoutOtherBrowserSessionsForm-fccd19de.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/LogoutOtherBrowserSessionsForm-b948589b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/PrimaryButton-66354f86.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/PrimaryButton-43438d09.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/PrivacyPolicy-502f1109.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/PrivacyPolicy-2922ea39.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Register-9daf407d.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Register-4b8e9e4b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/ResetPassword-9386f2b6.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/ResetPassword-21794ed8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/SecondaryButton-627417ee.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/SecondaryButton-d5087289.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/SectionBorder-b9184cc3.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/SectionBorder-0bcb41c9.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/SectionTitle-d8e0e337.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/SectionTitle-74af532c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Show-55d98164.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Show-5e1aff17.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Show-db66ba0e.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/Show-7fc3e8ad.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Show-fcedef4c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/TermsOfService-5948f423.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/TermsOfService-b81a6e64.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/TextInput-53a11692.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/TextInput-c29940a5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/TwoFactorAuthenticationForm-803df603.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/TwoFactorAuthenticationForm-e88b8170.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/TwoFactorChallenge-881bd867.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/TwoFactorChallenge-27cb4f63.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/UpdatePasswordForm-ce3b226a.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/UpdatePasswordForm-a20eab58.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/UpdateProfileInformationForm-c40125e8.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/UpdateProfileInformationForm-cd9525a3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Upload-9e1f48b2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/VerifyEmail-7931c238.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/VerifyEmail-c3d96f06.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/Welcome-b7ffbb6d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/app-2842ced1.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/app-07b1b76a.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/app-ee76bfaf.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/app-703427ef.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/body-c9ebbe2f.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/body-ee08d14f.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/build/assets/index-db7ea5e0.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/assets/index-21abbddf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/ActionMessage-bb742977.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/ApiTokenManager-675ffac7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/AppLayout-701a9f89.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/AuthenticationCard-7ee6fef1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/AuthenticationCardLogo-e34f8b05.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Blogs-f35cc885.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Checkbox-21bd56f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/ConfirmPassword-5c8a89be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Create-14ebad68.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Create-dc1eaee7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Create-e811417a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/DangerButton-4043a9d2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Dashboard-d6e52c16.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/DeleteUserForm-1a900f94.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/DialogModal-91800719.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Display-e626a742.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Display-ef686504.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Edit-a32b787e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Edit-d0a9aecc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Edit-eee8f128.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Footer-92427b74.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/ForgotPassword-73f14b65.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/FormSection-591bcfec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Index-13b7bef7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Index-1a811167.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Index-f638f924.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Index-f8b3dab7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/InputLabel-82143689.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Login-4aa6ff92.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/LogoutOtherBrowserSessionsForm-b948589b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/PrimaryButton-43438d09.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/PrivacyPolicy-2922ea39.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Register-4b8e9e4b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/ResetPassword-21794ed8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/SecondaryButton-d5087289.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/SectionBorder-0bcb41c9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/SectionTitle-74af532c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Show-5e1aff17.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Show-7fc3e8ad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Show-a6bee8d7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/TermsOfService-b81a6e64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/TextInput-c29940a5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/TwoFactorAuthenticationForm-e88b8170.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/TwoFactorChallenge-27cb4f63.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/UpdatePasswordForm-a20eab58.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/UpdateProfileInformationForm-cd9525a3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Upload-7678bbc6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/VerifyEmail-c3d96f06.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/Welcome-7e95fe14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/app-07b1b76a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/app-703427ef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/body-ee08d14f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/build/assets/index-21abbddf.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/build/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/build/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/hot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/Pages/Blogs/Create.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/Pages/Blogs/Create.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/Components/NotFound.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/Components/NotFound.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/Pages/Blogs/Show.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/Pages/Blogs/Show.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/Pages/Profiles/Edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/Pages/Profiles/Edit.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/Pages/Profiles/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/Pages/Profiles/Index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/Pages/Profiles/Show.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/Pages/Profiles/Show.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/Pages/Profiles/Upload.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/Pages/Profiles/Upload.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/Pages/Users/Edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/Pages/Users/Edit.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/Pages/Welcome.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/Pages/Welcome.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/Pages/Profiles/Blogs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/Pages/Profiles/Blogs.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/Pages/Profiles/Create.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/Pages/Profiles/Create.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/data/31/f9/31f930cc1bc2882a18958bee5f8ccae60ba9492f" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/data/31/f9/31f930cc1bc2882a18958bee5f8ccae60ba9492f" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/data/97/a0/97a0205ac4fc64da4f85165b4bf40b9e140d1e00" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/data/97/a0/97a0205ac4fc64da4f85165b4bf40b9e140d1e00" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpunit/php-file-iterator/ChangeLog.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/php-file-iterator/ChangeLog.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpunit/php-file-iterator/SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/php-file-iterator/SECURITY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpunit/php-file-iterator/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/php-file-iterator/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpunit/php-file-iterator/src/ExcludeIterator.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/php-file-iterator/src/ExcludeIterator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/phpunit/php-file-iterator/src/Iterator.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpunit/php-file-iterator/src/Iterator.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Command/TimeitCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Command/TimeitCommand.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Output/Theme.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Output/Theme.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Shell.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Shell.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/tightenco/ziggy/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/tightenco/ziggy/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/tightenco/ziggy/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/tightenco/ziggy/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/tightenco/ziggy/dist/index.es.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/tightenco/ziggy/dist/index.es.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/tightenco/ziggy/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/tightenco/ziggy/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/tightenco/ziggy/dist/index.m.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/tightenco/ziggy/dist/index.m.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/tightenco/ziggy/dist/vue.es.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/tightenco/ziggy/dist/vue.es.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/tightenco/ziggy/dist/vue.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/tightenco/ziggy/dist/vue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/tightenco/ziggy/dist/vue.m.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/tightenco/ziggy/dist/vue.m.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/tightenco/ziggy/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/tightenco/ziggy/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/tightenco/ziggy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/tightenco/ziggy/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/tightenco/ziggy/src/js/Route.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/tightenco/ziggy/src/js/Route.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -418,26 +212,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Korisnik/Desktop/myspacefinal",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Korisnik/Desktop/myspacefinal&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Korisnik\Desktop\myspacefinal\public\images" />
@@ -478,7 +272,8 @@
       <workItem from="1683247410355" duration="16973000" />
       <workItem from="1683317115612" duration="25877000" />
       <workItem from="1683387648482" duration="50905000" />
-      <workItem from="1683488624807" duration="5206000" />
+      <workItem from="1683488624807" duration="6735000" />
+      <workItem from="1683577028996" duration="228000" />
     </task>
     <servers />
   </component>

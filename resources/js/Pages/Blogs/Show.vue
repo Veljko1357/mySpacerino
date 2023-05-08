@@ -3,6 +3,7 @@ import { InertiaLink, usePage } from "@inertiajs/inertia-vue3";
 import { Inertia } from "@inertiajs/inertia";
 import { ref, watchEffect } from "vue";
 import { defineComponent, defineProps } from "vue";
+import Footer from "@/Components/Footer.vue";
 
 const { newComment } = usePage().props;
 const props = defineProps();
@@ -41,6 +42,12 @@ const formatDate = (date) => {
             </p>
             <div class="text-gray-700 text-lg leading-relaxed">
                 {{ blog.text }}
+                <div v-if="blog.unique_link" class="mt-4 text-blue-600">
+                    <span class="font-semibold">Unique link:</span>
+                    <inertia-link :href="`/blogs/link/${blog.unique_link}`">{{ `${
+                        location.protocol
+                    }//${location.host}/blogs/link/${blog.unique_link}` }}</inertia-link>
+                </div>
             </div>
         </div>
 
@@ -55,6 +62,7 @@ const formatDate = (date) => {
 
         </div>
     </div>
+<Footer></Footer>
 </template>
 
 

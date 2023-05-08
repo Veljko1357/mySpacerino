@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{o as e,e as t,a as s}from"./app-703427ef.js";const c={name:"Footer"},n={class:"bg-indigo-800 text-white text-center py-4"},r=s("p",{class:"text-sm"},"Only cool things happen to cool people - MySpacerino",-1),a=[r];function p(_,i,l,d,m,f){return e(),t("footer",n,a)}const $=o(c,[["render",p]]);export{$ as F};
